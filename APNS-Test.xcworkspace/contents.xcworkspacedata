@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:APNS-Test-Swift/APNS-Test-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:APNS-Test-ObjC/APNS-Test-ObjC.xcodeproj">
+   </FileRef>
+</Workspace>
